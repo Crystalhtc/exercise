@@ -49,3 +49,4 @@ var sentence = "The name of the first student is " + studentList[0][0] + " " + s
 
 console.log(sentence);
 // The name of the first student is Crystal Cheung, and her student number is A01234567. She is a student of the Digital Design and Development program.
+
